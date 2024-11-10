@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SairamReddy96
-- 👀 I’m interested in Game Programming and Competitve Programming(kinda...)
+- 👀 I’m interested in Game Programming and Competitve Programming
 - 🌱 I’m currently learning Unity (through mini projects) and DSA (Data Structures and Algorithms)
 - 💞️ I’m looking to collaborate on any GAME JAMS and other projects on UNITY (as a Game Programmer) 
 - 📫 How to reach me (email - reddysairam403@gmail.com)
