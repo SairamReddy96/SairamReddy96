@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @SairamReddy96
-- 👀 I’m interested in Game Programming and Competitve Programming
-- 🌱 I’m currently learning Unity (through mini projects) and DSA (Data Structures and Algorithms)
-- 💞️ I’m looking to collaborate on any GAME JAMS and other projects on UNITY (as a Game Programmer) 
+- 👀 I’m interested in Software Development and Game Programming
+- 🌱 I’m currently DSA (Data Structures and Algorithms) and learning Unity (through mini projects)
 - 📫 How to reach me (email - reddysairam403@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a noob :)
 
 <!---
 SairamReddy96/SairamReddy96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
