@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SairamReddy96
-- 👀 I’m interested in Software Development and Game Programming
-- 🌱 I’m currently DSA (Data Structures and Algorithms) and learning Unity (through mini projects)
+- 👀 I’m interested in Software Development and Game Development
 - 📫 How to reach me (email - reddysairam403@gmail.com)
 - 😄 Pronouns: He/Him
 
